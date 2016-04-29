@@ -1,0 +1,9 @@
+c:\users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\bin\Debug\Calculo.exe.config
+C:\Users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\obj\Debug\Calculo.csprojResolveAssemblyReference.cache
+C:\Users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\obj\Debug\Calculo.Form1.resources
+C:\Users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+C:\Users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\obj\Debug\Calculo.csproj.GenerateResource.Cache
+C:\Users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\bin\Debug\Calculo.exe
+C:\Users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\bin\Debug\Calculo.pdb
+C:\Users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\obj\Debug\Calculo.exe
+C:\Users\redspark\documents\visual studio 2013\Projects\Calculo\Calculo\obj\Debug\Calculo.pdb
