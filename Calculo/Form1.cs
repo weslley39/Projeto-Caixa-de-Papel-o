@@ -34,24 +34,6 @@ namespace Calculo
             double altura = 0;
             double lado = 0;
 
-            //var largura1 = Math.Pow(areaTotal, 2);
-            //var largura3 = ( areaTotal * 2) * 2;
-
-            //var linha3 = (4 * 3) - (largura3 * 2) + areaTotal;
-
-            //var valorA = (4 * 3) / (areaTotal / 2);
-            //var valorB = (largura3 * 2) / (areaTotal / 2);
-            //var valorC = largura1 / (areaTotal / 2);
-
-            //var delta1 = (Math.Pow(valorB, 2) - (4 * valorA * valorC));
-            //var x1     = (valorB + Math.Sqrt(delta1)) / 2 * valorA;
-
-            //var delta2 = (Math.Pow(valorB, 2) - (4 * valorA * valorC));
-            //var x2     = (valorB - Math.Sqrt(delta2)) / 2 * valorA;
-
-            //var resposta1 = (2 * x1) - (2 * x2);
-            //var resposta2 = Math.Sqrt(resposta1);
-
             double distributiva1 = Math.Pow(largura, 2);
             double distributiva2 = largura * (-2);
             double distributiva3 = (-2) * (largura);
@@ -91,8 +73,6 @@ namespace Calculo
 
         private void txtAreaTotal_Leave(object sender, EventArgs e)
         {
-            int areaTotal = Convert.ToInt32(txtAreaTotal.Text);
-
         }
 
         private void txtAreaTotal_KeyPress(object sender, KeyPressEventArgs e)

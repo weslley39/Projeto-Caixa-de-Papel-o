@@ -124,7 +124,6 @@
             this.txtAreaTotal.Name = "txtAreaTotal";
             this.txtAreaTotal.Size = new System.Drawing.Size(259, 20);
             this.txtAreaTotal.TabIndex = 8;
-            this.txtAreaTotal.Text = "576";
             this.txtAreaTotal.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtAreaTotal_KeyPress);
             this.txtAreaTotal.Leave += new System.EventHandler(this.txtAreaTotal_Leave);
             // 
