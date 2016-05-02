@@ -62,7 +62,7 @@ namespace Calculo
             }
 
 
-            //txtArea.Text = areaTotal.ToString();
+            txtArea.Text = areaTotal.ToString();
             txtLargura2.Text = areaTotal.ToString();
             txtLargura.Text = largura.ToString();
             txtX1.Text = convetOnePlace(valorX1).ToString("0.##");
