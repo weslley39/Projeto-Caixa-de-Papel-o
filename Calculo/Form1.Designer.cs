@@ -218,7 +218,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Projeto Caixa de Papelao";
+            this.Text = "Projeto Caixa de Papelao - F";
             this.ResumeLayout(false);
             this.PerformLayout();
 
